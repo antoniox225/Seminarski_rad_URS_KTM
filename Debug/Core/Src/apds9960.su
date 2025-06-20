@@ -1,0 +1,2 @@
+../Core/Src/apds9960.c:19:9:APDS9960_Init	40	static
+../Core/Src/apds9960.c:47:9:APDS9960_ReadProximity	40	static

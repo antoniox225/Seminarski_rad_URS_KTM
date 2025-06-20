@@ -1,0 +1,5 @@
+../Core/Src/main.c:77:6:Podvozje	3
+../Core/Src/main.c:109:6:APDS9960	1
+../Core/Src/main.c:122:5:main	2
+../Core/Src/main.c:191:6:SystemClock_Config	3
+../Core/Src/main.c:242:6:Error_Handler	1
